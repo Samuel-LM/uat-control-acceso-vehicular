@@ -42,10 +42,10 @@ En AppSheet, la lógica ejecutable se define en **expresiones**, validaciones de
 La versión de evaluación simplifica permisos para permitir que cuentas de jueces desconocidas usen la DEMO; la original empleaba diferenciación de roles. Esto es **una facilitación de demostración, no seguridad de producción**. La exportación de historial observada es CSV compatible con Excel, no un archivo Excel nativo `.xlsx`. Se documentan pruebas observadas sin inferir una cobertura automática inexistente.
 
 ## Equipo
-Informatix — Loredo Martinez Orlando Samuel
-             Osorio Olivares Edgar Eduardo
-             Montelongo Fernández Sheyla
-             Pérez Camacho Edgar Eduardo
+Informatix — Loredo Martinez Orlando Samuel - 
+             Osorio Olivares Edgar Eduardo - 
+             Montelongo Fernández Sheyla - 
+             Pérez Camacho Edgar Eduardo - 
              Garcia Navarro Carlos Nadir
 
 > El sistema funciona en el servicio alojado de AppSheet. Este repositorio conserva la descripción técnica y expresiones fuente disponibles; no sustituye el acceso a la app en la plataforma.
